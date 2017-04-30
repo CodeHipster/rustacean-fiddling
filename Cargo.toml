@@ -1,0 +1,6 @@
+[package]
+name = "trait-object"
+version = "0.1.0"
+authors = ["Thijs <oostdam@gmail.com>"]
+
+[dependencies]
