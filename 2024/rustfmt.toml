@@ -1,0 +1,4 @@
+max_width = 100
+same_line_attributes = true
+tab_spaces = 2
+# fn_args_layout = "compressed"

@@ -1,0 +1,11 @@
+[package]
+edition = '2021'
+name = "fiddles"
+version = "1.0.0"
+authors = ["Thijs"]
+
+[dependencies]
+
+[[bin]]
+name = "fiddles"
+path = "src/bin/graph/rec-struct.rs"
